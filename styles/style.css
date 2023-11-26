@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.stranichka1{
+background: linear-gradient(to left,violet,aquamarine,gray);
+text-align: center;
+    
+}
+h1{
+    background: yellow;
+    margin: 10px;
+}
+h2{
+    background: yellow;
+    padding: 10px;
+    margin: 10px;
+}
+img{
+    border: 5px solid gray;
+    border-radius: 5px;
+    margin: 10px 10px;
+}
+p{
+    border:2px solid black;
+    text-align: center; 
+    margin: 20px 30px 20px 30px;
+    background: green;
+    border-radius: 5px;
+
+
+}
+.ssilka{
+    text-align: left;
+    margin-top: 10px;
+}
+.stranichka2{
+    background: linear-gradient(to bottom, gray, red, skyblue);
+    text-align: center;
+}
+video{
+    margin: 20px 30px;
+}
